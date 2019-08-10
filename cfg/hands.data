@@ -1,0 +1,5 @@
+classes= 1
+train  = /content/darknet/data/hand/train.txt
+valid  = /content/darknet/data/hand/test.txt
+backup = /content/darknet/backup
+names  = /content/darknet/data/hand/hand.names
